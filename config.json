@@ -1,0 +1,13 @@
+{
+    "app": {
+        "name": "RedHawk",
+        "version": "3.0.0"
+    },
+    "scanner": {
+        "threads": 50,
+        "timeout": 30
+    },
+    "network": {
+        "user_agent": "Mozilla/5.0"
+    }
+}
