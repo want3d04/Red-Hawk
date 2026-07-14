@@ -44,7 +44,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/want3d04/redhawk.git
+git clone https://github.com/want3d04/Red-Hawk.git
 cd redhawk
 
 # Install dependencies
